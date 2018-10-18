@@ -1,1 +1,1 @@
-# AUT-CEIT-FANOOS.github.io
+# fanoosaut.github.io
